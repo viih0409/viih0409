@@ -1,16 +1,15 @@
-## Hi there 👋
+olá meu nome é Vitória
 
-<!--
-**viih0409/viih0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tenho 15 anos
 
-Here are some ideas to get you started:
+estudo na Escola Estadual Ruy de Mello Junqueira 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+sou de São Paulo 
+
+faço aniversario em setembro
+
+gosto de curtir com a minha familia e amigos 
+
+passo a maioria do tempo na escola 
+
+nos meus tempos livres eu fico mexendo no celular
